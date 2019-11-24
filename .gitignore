@@ -1,0 +1,13 @@
+modules/
+rs9116/
+Objects/
+*.d
+*.o
+*.map
+*.hex
+*.asm
+*.dep
+*.bin
+*.htm
+*.axf
+*.crf
