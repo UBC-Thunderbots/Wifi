@@ -23,4 +23,13 @@
     <NodeIsExpanded>1</NodeIsExpanded>
   </project>
 
+  <project>
+    <PathAndName>.\RS14100.NB0.WM.GENR.1.0.4\Examples\Reference_Projects\Peripheral_Projects\Keil\m4_pin_interrupt\m4_pin_interrupt.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\RS14100.NB0.WM.GENR.1.0.4\Examples\Reference_Projects\Peripheral_Projects\Keil\ulp_pin_interrupt\ulp_pin_interrupt.uvprojx</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
 </ProjectWorkspace>
